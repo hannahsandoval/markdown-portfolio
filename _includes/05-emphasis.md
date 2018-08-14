@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I live in the Sydney region out in the *Penrith valley*. I work as a CSR at **Github** and I work with some amazing people :100: 
